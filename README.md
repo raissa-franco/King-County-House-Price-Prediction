@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 1. Project Title and General Description
+## 📌 1. General Description
 
 This project involves analyzing a dataset containing one year of house sale prices (from May 2014 to May 2015) in King County, Washington — including Seattle. The main objective is to identify the key factors influencing house prices and build a predictive model using machine learning techniques.
 
